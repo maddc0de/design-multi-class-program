@@ -17,4 +17,4 @@ To learn and understand this, I am going to:
 
 [x] Test drive a system of classes.
 
-[ ] **Design a system of classes.**
+[x] **Design a system of classes.**
