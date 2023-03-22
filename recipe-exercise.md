@@ -130,7 +130,7 @@ class DiaryEntry
     # returns length of contents
   end
 
-  def reading_time(wpm, minutes)
+  def reading_time(wpm)
     # returns an integer representing minutes
   end
 
